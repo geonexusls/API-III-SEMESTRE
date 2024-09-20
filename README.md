@@ -27,7 +27,7 @@ Este projeto tem como objetivo a análise de produtividade de veículos, de otim
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner| Fernanda Andrade | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/) |
 | Scrum Master | Lucas Monteiro | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/) |
-| Developer | Evelyn Melo | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/) |
+| Developer | Evelyn Melo | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evelynpmelo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) |
 | Developer | Gabriela de Avila | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/) |
 | Developer | Lucas Matheus | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/) |
 | Developer | Raíssa Nunes | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/) |
@@ -124,20 +124,21 @@ EM BREVE
 
 # Burndown
 
-## Backlog do Produto+GitHub+Jira 
+### Backlog do Produto+GitHub+Jira 
 
 
-## 1ª Sprint 
+
+### 1ª Sprint 
 
 EM BREVE 
 
 
-## 2ª Sprint
+### 2ª Sprint
 
 EM BREVE
 
  
-## 3ª Sprint
+### 3ª Sprint
 
 EM BREVE
 
@@ -145,26 +146,6 @@ EM BREVE
 ## Feira de Soluções
 
 EM BREVE
-
-
-
-## Sprint 1. Concepção
-- [x] Estrutura do backlog
-- [x] Delimitação de tarefas
-- [x] Atribuição de responsáveis pelas tarefas
-
-## Sprint 2. Desenvolvimento do Projeto
-- [x] EM BREVE
-- [x] EM BREVE
-      
-## Sprint 3. Implementação
-- [x] EM BREVE
-- [x] EM BREVE
-      
-## Sprint 4. Operacionalização
-- [x] EM BREVE
-- [x] EM BREVE
-
 
 # Competências desenvolvidas
 
@@ -174,10 +155,9 @@ EM BREVE
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
  
 </details>
