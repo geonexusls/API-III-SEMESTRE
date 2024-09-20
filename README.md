@@ -42,28 +42,34 @@ Criar base de dados relacional e Dashboard que permita:
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > 5W2H
+> 5W2H
 > 
->JiraSoftware
+> JiraSoftware
 > 
 > PowerBi
 > 
 > GitHub
+>
+> MySQL
+>
+> Slack
+>
+> Python
   
  ### Tecnologias da Informação
  > Pacote Office
+>
+> Chat GPT
 
 # Sprints
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Sprint 1| 00/00/0000 | Concluído / Em breve | [Ver Relatório]()| 
-|Sprint 2| 00/00/0000 | Concluído / Em breve | [Ver Relatório]()| 
-|Sprint 3| 00/00/0000 | Concluído / Em breve | [Ver Relatório]()|
-|Sprint 4| 00/00/0000 | Concluído / Em breve | [Ver Relatório]()| 
-|Feira de Soluções|00/00/0000 | Concluído / Em breve | [Ver Relatório]()| 
-
-## Cronograma
+|Backlog de Produto+GitHub+Jira| 27/09/2024 | Concluído | [Ver Relatório]()|
+|Sprint 1| 18/10/2024 | Em breve | [Ver Relatório]()| 
+|Sprint 2| 08/11/2024 | Em breve | [Ver Relatório]()| 
+|Sprint 3| 29/11/2024 | Em breve | [Ver Relatório]()|
+|Feira de Soluções| 12/12/2024 | Em breve | [Ver Relatório]()| 
 
 # Requisitos
 
@@ -87,71 +93,48 @@ Sprint | Previsão | Status| Histórico|
   
 # Backlog do produto
   
-<div align="center">
- 
- ### Requisitos funcionais
-
-
- ### Requisitos não funcionais
-
-</div>
+![image](https://github.com/user-attachments/assets/653d86a2-5c7f-4440-a3b4-139639f270d7)
 
 # Backlog das Sprints
 
 <div align="center">
 
- ### 1ª - Sprint
- -
+ ### Backlog do Produto+GitHub+Jira
+
+  ![image](https://github.com/user-attachments/assets/dcaeb62a-e804-445e-8b44-490ca2521be2)
  
+ ### 1ª - Sprint
+
+EM BREVE
+
  ### 2ª - Sprint
--
+
+EM BREVE
 
 ### 3ª - Sprint
--
+
+EM BREVE
 
 ### 4ª - Sprint
--
 
-### Backlog
--
-
-</div>
-
+EM BREVE
 
 # Burndown
 
-<details>
-
 <summary> 1ª SPRINT </summary>
 
-IMAGEM DO GRAF
 
-
-</details>
-
-<details>
- 
 <summary> 2ª SPRINT </summary>
 
- IMAGEM DO GRAF
+EM BREVE
 
-</details>
-
-<details>
- 
 <summary> 3ª SPRINT </summary>
 
-IMAGEM DO GRAF
-
-</details>
-
-<details>
+EM BREVE
  
 <summary> 4ª SPRINT </summary>
- IMAGEM DO GRAF
 
-</details>
-
+ EM BREVE
 
 ## Sprint 1. Concepção
 - [x] Estrutura do backlog
