@@ -8,10 +8,13 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Projeto](#projeto-template)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Sprints](#Sprints)
+* [Requisitos](#requisitos)
+* [Backlog do Produto](#Backlog-do-produto)
+* [Backlog das Sprints](#Backlog-das-sprints)
 * [Burndown](#Burndown)
-* [Backlog do produto](#Backlog-do-produto)
-* [Competências desenvolvidas](#competências-desenvolvidas)
+* [Competências Desenvolvidas](#competências-desenvolvidas)
 
 
 # Projeto (API) 
@@ -115,26 +118,35 @@ EM BREVE
 
 EM BREVE
 
-### 4ª - Sprint
+### Feira de Soluções - Sprint
 
 EM BREVE
 
 # Burndown
 
-<summary> 1ª SPRINT </summary>
+## Backlog do Produto+GitHub+Jira 
 
 
-<summary> 2ª SPRINT </summary>
+## 1ª Sprint 
+
+EM BREVE 
+
+
+## 2ª Sprint
 
 EM BREVE
 
-<summary> 3ª SPRINT </summary>
-
-EM BREVE
  
-<summary> 4ª SPRINT </summary>
+## 3ª Sprint
 
- EM BREVE
+EM BREVE
+
+
+## Feira de Soluções
+
+EM BREVE
+
+
 
 ## Sprint 1. Concepção
 - [x] Estrutura do backlog
@@ -142,16 +154,16 @@ EM BREVE
 - [x] Atribuição de responsáveis pelas tarefas
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [x] ?
-- [x] ?
+- [x] EM BREVE
+- [x] EM BREVE
       
 ## Sprint 3. Implementação
-- [x] ?
-- [x] ?
+- [x] EM BREVE
+- [x] EM BREVE
       
 ## Sprint 4. Operacionalização
-- [x] ?
-- [x] ?
+- [x] EM BREVE
+- [x] EM BREVE
 
 
 # Competências desenvolvidas
