@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrado (API) 
+# Aprendizado por Projeto Integrador (API) 
 
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
@@ -126,6 +126,7 @@ EM BREVE
 
 ### Backlog do Produto+GitHub+Jira 
 
+![image](https://github.com/user-attachments/assets/91d52a97-0dd7-4a3f-a61c-fb9573f9933f)
 
 
 ### 1ª Sprint 
