@@ -38,10 +38,8 @@ Criar base de dados relacional e Dashboard que permita:
 
 * (II) criação de um visualizador de indicadores em BI
 
- * (III) aplicação do método de transportes para otimização da distribuição
+* (III) aplicação do método de transportes para otimização da distribuição
  
-
-
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
@@ -74,6 +72,14 @@ Sprint | Previsão | Status| Histórico|
 |Sprint 3| 29/11/2024 | Em breve | [Ver Relatório]()|
 |Feira de Soluções| 12/12/2024 | Em breve | [Ver Relatório]()| 
 
+# Protótipos 
+## Protótipo de tabela em _Python_ 
+
+![image](https://github.com/user-attachments/assets/09cdfb3e-540d-4605-8c3c-b8a0f2353a86)
+
+
+[Visualizar conteúdo completo](https://colab.research.google.com/drive/1scb5vjCPY2QLcfwfYI9nLH4Wl7KNdFJ5?usp=sharing)
+
 # Requisitos
 
 * Requisitos funcionais 
@@ -104,8 +110,9 @@ Sprint | Previsão | Status| Histórico|
 
  ### Backlog do Produto+GitHub+Jira
 
-  ![image](https://github.com/user-attachments/assets/dcaeb62a-e804-445e-8b44-490ca2521be2)
- 
+![image](https://github.com/user-attachments/assets/44e70f8b-ff1d-4033-a009-74c2b845d661)
+
+
  ### 1ª - Sprint
 
 EM BREVE
