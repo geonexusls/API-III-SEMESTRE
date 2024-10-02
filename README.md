@@ -101,8 +101,8 @@ Sprint | Previsão | Status| Histórico|
 >Power BI / Jira 
   
 # Backlog do produto
-  
-![image](https://github.com/user-attachments/assets/653d86a2-5c7f-4440-a3b4-139639f270d7)
+ 
+ ![image](https://github.com/user-attachments/assets/1cdcf25c-4a80-4ecc-969f-d46092a37862)
 
 # Backlog das Sprints
 
