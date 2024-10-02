@@ -115,15 +115,18 @@ Sprint | Previsão | Status| Histórico|
 
  ### 1ª - Sprint
 
-EM BREVE
+![image](https://github.com/user-attachments/assets/46a27c8f-e747-4cd9-a4c9-196394f42e1b)
+
 
  ### 2ª - Sprint
 
-EM BREVE
+![image](https://github.com/user-attachments/assets/e6260943-9f43-420e-be40-9cb1cb4e0641)
+
 
 ### 3ª - Sprint
 
-EM BREVE
+![image](https://github.com/user-attachments/assets/24f54d12-562d-49b0-9fec-8caf426badf7)
+
 
 ### Feira de Soluções - Sprint
 
