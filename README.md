@@ -102,7 +102,8 @@ Sprint | Previsão | Status| Histórico|
   
 # Backlog do produto
  
- ![image](https://github.com/user-attachments/assets/1cdcf25c-4a80-4ecc-969f-d46092a37862)
+![WhatsApp Image 2024-10-16 at 21 32 40 (1)](https://github.com/user-attachments/assets/85255ae3-5521-451a-8b47-8563f7fbee6d)
+
 
 # Backlog das Sprints
 
@@ -115,7 +116,8 @@ Sprint | Previsão | Status| Histórico|
 
  ### 1ª - Sprint
 
-![image](https://github.com/user-attachments/assets/46a27c8f-e747-4cd9-a4c9-196394f42e1b)
+![WhatsApp Image 2024-10-16 at 21 35 42](https://github.com/user-attachments/assets/55d1a80c-e9cb-4fe6-9f5f-a1fb11ce45bc)
+
 
 
  ### 2ª - Sprint
