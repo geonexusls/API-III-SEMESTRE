@@ -77,6 +77,12 @@ Sprint | Previsão | Status| Histórico|
 
 ![image](https://github.com/user-attachments/assets/09cdfb3e-540d-4605-8c3c-b8a0f2353a86)
 
+## Protótipo da Base de Dados SQL
+
+![WhatsApp Image 2024-10-18 at 19 19 35](https://github.com/user-attachments/assets/5227ea2e-9e94-4b69-bf3c-b66c41a8a947)
+![WhatsApp Image 2024-10-18 at 19 19 33](https://github.com/user-attachments/assets/90c94419-ff62-4d84-89bb-683e1a4bd360)
+![WhatsApp Image 2024-10-18 at 19 16 51](https://github.com/user-attachments/assets/79fb904e-3bc1-40f3-a0e1-65f1b6d26a36)
+
 
 [Visualizar conteúdo completo](https://colab.research.google.com/drive/1scb5vjCPY2QLcfwfYI9nLH4Wl7KNdFJ5?usp=sharing)
 
@@ -116,18 +122,21 @@ Sprint | Previsão | Status| Histórico|
 
  ### 1ª - Sprint
 
-![WhatsApp Image 2024-10-16 at 21 35 42](https://github.com/user-attachments/assets/55d1a80c-e9cb-4fe6-9f5f-a1fb11ce45bc)
+![imagem](https://github.com/user-attachments/assets/c281c019-9734-42af-b7a2-ff2518190cbd)
+
 
 
 
  ### 2ª - Sprint
 
-![image](https://github.com/user-attachments/assets/e6260943-9f43-420e-be40-9cb1cb4e0641)
+![WhatsApp Image 2024-10-18 at 19 17 12](https://github.com/user-attachments/assets/aeff4dff-82ee-4db7-92e1-6e446fd53953)
+
 
 
 ### 3ª - Sprint
 
-![image](https://github.com/user-attachments/assets/24f54d12-562d-49b0-9fec-8caf426badf7)
+![imagem (2)](https://github.com/user-attachments/assets/13782a01-cd72-4436-b231-5805df7387c8)
+
 
 
 ### Feira de Soluções - Sprint
@@ -150,6 +159,7 @@ EM BREVE
 ### 2ª Sprint
 
 EM BREVE
+
 
  
 ### 3ª Sprint
