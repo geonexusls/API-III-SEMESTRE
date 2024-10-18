@@ -83,6 +83,9 @@ Sprint | Previsão | Status| Histórico|
 ![WhatsApp Image 2024-10-18 at 19 19 33](https://github.com/user-attachments/assets/90c94419-ff62-4d84-89bb-683e1a4bd360)
 ![WhatsApp Image 2024-10-18 at 19 16 51](https://github.com/user-attachments/assets/79fb904e-3bc1-40f3-a0e1-65f1b6d26a36)
 
+## Protótipo Power BI
+
+![Capturar](https://github.com/user-attachments/assets/5e53e5ae-ee8b-43f0-afc3-5565f63687e9)
 
 [Visualizar conteúdo completo](https://colab.research.google.com/drive/1scb5vjCPY2QLcfwfYI9nLH4Wl7KNdFJ5?usp=sharing)
 
