@@ -32,6 +32,29 @@ Este projeto tem como objetivo a análise de produtividade de veículos, de otim
 | Developer | Lucas Matheus | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-matheus-1143b2186?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 | Developer | Raíssa Nunes | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ra%C3%ADssa-nunes-corr%C3%AAa-aba11622a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 
+## Job Rotation 
+### Backlog + Github + Jira
+| Tarefa                  | Responsável           |
+|-------------------------|-----------------------|
+| SQL                     | Fernanda + Evelyn     |
+| Python                  | Raíssa + Lucas M.     |
+| Relatório + GitHub      | Gabriela + Lucas N.   |
+
+### Sprint 1
+| Tarefa                  | Responsável           |
+|-------------------------|-----------------------|
+| SQL                     | Fernanda + Evelyn     |
+| Python + Dashboard      | Raíssa + Lucas M.     |
+| Relatório + GitHub      | Gabriela + Lucas N.   |
+
+### Sprint 2
+| Tarefa                  | Responsável           |
+|-------------------------|-----------------------|
+| Pesquisa Operacional    | Fernanda + Lucas N.   |
+| SQL                     | Evelyn                |
+| Python + Dashboard      | Raíssa + Lucas M.     |
+| Relatório + GitHub      | Gabriela              |
+
 # Objetivo do Projeto
 Criar base de dados relacional e Dashboard que permita:
 * (I) criação e modelagem de um banco de dados em SQL
@@ -67,7 +90,7 @@ Criar base de dados relacional e Dashboard que permita:
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Backlog de Produto+GitHub+Jira| 27/09/2024 | Concluído | [Ver Relatório](https://github.com/geonexusls/API-III-SEMESTRE/tree/main/Documentos/Relat%C3%B3rios)|
-|Sprint 1| 18/10/2024 | Em breve | [Ver Relatório]()| 
+|Sprint 1| 18/10/2024 | Disponível | [Ver Relatório]()| 
 |Sprint 2| 08/11/2024 | Em breve | [Ver Relatório]()| 
 |Sprint 3| 29/11/2024 | Em breve | [Ver Relatório]()|
 |Feira de Soluções| 12/12/2024 | Em breve | [Ver Relatório]()| 
