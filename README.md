@@ -1,7 +1,6 @@
 # Aprendizado por Projeto Integrador (API) 
 
-
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividade, autonomia, colaboração e cntrega de resultados dos estudantes envolvidos
 
 # Índice
 
