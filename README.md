@@ -90,7 +90,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Backlog de Produto+GitHub+Jira| 27/09/2024 | Concluído | [Ver Relatório](https://github.com/geonexusls/API-III-SEMESTRE/tree/main/Documentos/Relat%C3%B3rios)|
 |Sprint 1| 18/10/2024 | Concluído | [Ver Relatório](https://github.com/geonexusls/API-III-SEMESTRE/tree/main/Documentos/Relat%C3%B3rios)| 
-|Sprint 2| 08/11/2024 | Em breve | [Ver Relatório](https://github.com/geonexusls/API-III-SEMESTRE/tree/main/Documentos/Relat%C3%B3rios)| 
+|Sprint 2| 08/11/2024 | Concluído | [Ver Relatório](https://github.com/geonexusls/API-III-SEMESTRE/tree/main/Documentos/Relat%C3%B3rios)| 
 |Sprint 3| 29/11/2024 | Em breve | [Ver Relatório](https://github.com/geonexusls/API-III-SEMESTRE/tree/main/Documentos/Relat%C3%B3rios)|
 |Feira de Soluções| 12/12/2024 | Em breve | [Ver Relatório](https://github.com/geonexusls/API-III-SEMESTRE/tree/main/Documentos/Relat%C3%B3rios)| 
 
