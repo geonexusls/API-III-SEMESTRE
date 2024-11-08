@@ -183,7 +183,8 @@ EM BREVE
 
 ### 2ª Sprint
 
-EM BREVE
+![WhatsApp Image 2024-11-08 at 09 37 43](https://github.com/user-attachments/assets/5338d11b-ebb7-4d34-89ba-7c96c13020c4)
+
 
 
  
