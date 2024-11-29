@@ -54,6 +54,15 @@ Este projeto tem como objetivo a análise de produtividade de veículos, de otim
 | Python + Dashboard      | Raíssa + Lucas M.     |
 | Relatório + GitHub      | Gabriela              |
 
+### Sprint 3
+| Tarefa                  | Responsável           |
+|-------------------------|-----------------------|
+| Pesquisa Operacional    | Fernanda + Lucas N.   |
+| SQL                     | Evelyn                |
+| Python + Dashboard      | Raíssa + Lucas M.     |
+| Relatório + GitHub      | Gabriela              |
+
+
 # Objetivo do Projeto
 Criar base de dados relacional e Dashboard que permita:
 * (I) criação e modelagem de um banco de dados em SQL
@@ -107,7 +116,13 @@ Sprint | Previsão | Status| Histórico|
 
 ## Protótipo Power BI
 
+Primeiro Protótipo do grupo:
+
 ![Capturar](https://github.com/user-attachments/assets/5e53e5ae-ee8b-43f0-afc3-5565f63687e9)
+
+Design Final: 
+
+![WhatsApp Image 2024-11-29 at 18 41 25 (1)](https://github.com/user-attachments/assets/74d040b1-54e2-4baf-be27-6f1295a0f360)
 
 [Visualizar conteúdo completo](https://colab.research.google.com/drive/1scb5vjCPY2QLcfwfYI9nLH4Wl7KNdFJ5?usp=sharing)
 
@@ -190,7 +205,8 @@ EM BREVE
  
 ### 3ª Sprint
 
-EM BREVE
+![WhatsApp Image 2024-11-29 at 18 41 25](https://github.com/user-attachments/assets/2af0039f-eca4-45b8-8b26-dff2fddbd0bd)
+
 
 
 ## Feira de Soluções
